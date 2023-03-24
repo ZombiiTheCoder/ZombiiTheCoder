@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zombii
+- 👋 Hi, I’m @ZombiiTheCoder
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...
 - 📫 How to reach me DM me on discord im Zombii#7882
