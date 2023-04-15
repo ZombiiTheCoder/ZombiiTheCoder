@@ -6,6 +6,16 @@
 
 ## Hello , I'm [Zombii!](https://github.com/ZombiiTheCoder/)
 
+#### My Friend's Sites
+
+M4ximumPizza
+[![Google Chrome](https://img.shields.io/badge/Maximum%20Pizza-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://m4ximumpizza.github.io/Site/)
+
+Enderlars
+[![Ender Lars](https://img.shields.io/badge/Ender%20Lars-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://enderlars.netlify.app)
+
+
+
 ### Projects and Dev Stuffs:
 
 <details>	
