@@ -60,8 +60,7 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Jar-Builder?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Jar-Builder?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Jar-Builder?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/
-        Jar-Builder?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Jar-Builder?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/count/GeoStudios/Jar-Builder?style=flat-square"/>
         <img alt="Language" src="https://img.shields.io/github/languages/top/GeoStudios/Jar-Builder?style=flat-square"/></td>
       </tr>
@@ -69,8 +68,7 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Super-Cal?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Super-Cal?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Super-Cal?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/
-        Super-Cal?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Super-Cal?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/count/GeoStudios/Super-Cal?style=flat-square"/>
         <img alt="Language" src="https://img.shields.io/github/languages/top/GeoStudios/Super-Cal?style=flat-square"/></td>
       </tr>
