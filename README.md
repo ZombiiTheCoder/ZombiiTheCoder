@@ -12,8 +12,6 @@
 
 [![Ender Lars](https://img.shields.io/badge/Ender%20Lars-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://enderlars.netlify.app)
 
-
-
 ### Projects and Dev Stuffs:
 
 <details>	
@@ -104,3 +102,5 @@
 ### Show some ❤️ by starring some of the repos!
 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZombiiTheCoder&bg_color=000000&color=ffffff&line=ff0000&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
