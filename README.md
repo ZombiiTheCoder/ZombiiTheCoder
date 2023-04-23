@@ -87,9 +87,9 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 11</li>
-  	    <li><b>Browser: </b> Edge Web Browser</li>
-	    <li><b>Terminal: </b> Powershell</li>
+  	    <li><b>OS:</b> Windows 11 </li>
+  	    <li><b>Browser: </b> Firefox </li>
+	    <li><b>Terminal: </b> Powershell </li>
 	    <li><b>IDE:</b> VSCode, Visual Studio & Intellij </li>
 	    <br />
 	</ul>	
