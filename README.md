@@ -76,7 +76,7 @@
       </tr>
       <td><a href="https://github.com/GeoStudios/Project-Creator"><b>🚀 Project Creator</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Project-Creator?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Lines" src="https://img.shields.io/tokei/lines/github/GeoStudios/GProject-Creator?style=plastic"/></td>
+        <td><img alt="Lines" src="https://img.shields.io/tokei/lines/github/GeoStudios/Project-Creator?style=plastic"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Project-Creator?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Project-Creator?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Project-Creator?style=flat-square"/></td>
