@@ -38,6 +38,7 @@
       <tr border: none;>
         <td><b>💻 Projects</b></td>
         <td><b>🌟 Stars</b></td>
+        <td><b>📄 Lines</b></td>
         <td><b>🍴 Forks</b></td>
         <td><b>🐛 Issues</b></td>
         <td><b>🔔 Pull Requests</b></td>
@@ -46,16 +47,36 @@
     </thead>
     <tobody>
       <tr>
-      <td><a href="https://github.com/ZombiiTheCoder/Geo-Launcher"><b>🚀 Geo Launcher</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ZombiiTheCoder/Geo-Launcher?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ZombiiTheCoder/Geo-Launcher?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ZombiiTheCoder/Geo-Launcher?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ZombiiTheCoder/Geo-Launcher?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/count/ZombiiTheCoder/Geo-Launcher?style=flat-square"/>
-        <img alt="Language" src="https://img.shields.io/github/languages/top/ZombiiTheCoder/Geo-Launcher?style=flat-square"/></td>
+      <td><a href="https://github.com/ZombiiTheCoder/Soup"><b>🚀 Soup</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ZombiiTheCoder/Soup?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Lines" src="https://img.shields.io/tokei/lines/github/ZombiiTheCoder/Soup?style=plastic"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ZombiiTheCoder/Soup?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ZombiiTheCoder/Soup?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ZombiiTheCoder/Soup?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/count/ZombiiTheCoder/Soup?style=flat-square"/>
+        <img alt="Language" src="https://img.shields.io/github/languages/top/ZombiiTheCoder/Soup?style=flat-square"/></td>
+      </tr>
+      <td><a href="https://github.com/ZombiiTheCoder/SoupPackager"><b>🚀 Soup Packager</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ZombiiTheCoder/SoupPackager?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Lines" src="https://img.shields.io/tokei/lines/github/ZombiiTheCoder/SoupPackager?style=plastic"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ZombiiTheCoder/SoupPackager?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ZombiiTheCoder/SoupPackager?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ZombiiTheCoder/SoupPackager?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/count/ZombiiTheCoder/SoupPackager?style=flat-square"/>
+        <img alt="Language" src="https://img.shields.io/github/languages/top/ZombiiTheCoder/SoupPackager?style=flat-square"/></td>
+      </tr>
+      <td><a href="https://github.com/GeoStudios/Geo-Launcher"><b>🚀 Geo Launcher</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Geo-Launcher?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Lines" src="https://img.shields.io/tokei/lines/github/GeoStudios/Geo-Launcher?style=plastic"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Geo-Launcher?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Geo-Launcher?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Geo-Launcher?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/count/GeoStudios/Geo-Launcher?style=flat-square"/>
+        <img alt="Language" src="https://img.shields.io/github/languages/top/GeoStudios/Geo-Launcher?style=flat-square"/></td>
       </tr>
       <td><a href="https://github.com/GeoStudios/Project-Creator"><b>🚀 Project Creator</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Project-Creator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Lines" src="https://img.shields.io/tokei/lines/github/GeoStudios/GProject-Creator?style=plastic"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Project-Creator?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Project-Creator?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Project-Creator?style=flat-square"/></td>
@@ -64,6 +85,7 @@
       </tr>
       <td><a href="https://github.com/GeoStudios/Jar-Builder"><b>🚀 Jar Builder</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Jar-Builder?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Lines" src="https://img.shields.io/tokei/lines/github/GeoStudios/Jar-Builder?style=plastic"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Jar-Builder?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Jar-Builder?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Jar-Builder?style=flat-square"/></td>
@@ -72,6 +94,7 @@
       </tr>
       <td><a href="https://github.com/GeoStudios/Super-Cal"><b>🚀 Super Cal</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Super-Cal?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Lines" src="https://img.shields.io/tokei/lines/github/GeoStudios/Super-Cal?style=plastic"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Super-Cal?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Super-Cal?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Super-Cal?style=flat-square"/></td>
