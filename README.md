@@ -1,14 +1,10 @@
-<style>
-  a{
-    text-decoration-underline:;
-  }
-</style>
+
 
 ## Hello , I'm [Zombii!](https://github.com/ZombiiTheCoder/)
 
 #### My Friend's Sites
 
-[![Google Chrome](https://img.shields.io/badge/Maximum%20Pizza-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://m4ximumpizza.github.io/Site/)
+[![Google Chrome](https://img.shields.io/badge/Maximum%20Pizza-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://m4ximumpizza.github.io/site/)
 
 [![Ender Lars](https://img.shields.io/badge/Ender%20Lars-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://enderlars.netlify.app)
 
