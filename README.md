@@ -4,9 +4,11 @@
 
 #### My Friend's Sites
 
-[![Google Chrome](https://img.shields.io/badge/Maximum%20Pizza-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://m4ximumpizza.github.io/site/)
+[![Maxium Pizza](https://img.shields.io/badge/Maximum%20Pizza-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://m4ximumpizza.github.io/site/)
 
 [![Ender Lars](https://img.shields.io/badge/Ender%20Lars-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://enderlars.netlify.app)
+
+[![Velox Framework](https://img.shields.io/badge/Velox%20Framework-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://velox-framework.netlify.app)
 
 ### Projects and Dev Stuffs:
 
